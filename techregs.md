@@ -23,11 +23,11 @@
 
 ## 3. Zoning
 
-- **3.1. Monocoque zone:** 3 x 1 x 1 blocks (Width x Length x Height). *(pic 3)*
-- **3.2. Front zone:** From the front axle to the start of the front wing, exactly 2 blocks. *(pic 4)*
+- **3.1. Monocoque zone:** 3 x 1 x 1 blocks (Width x Length x Height).
+- **3.2. Front zone:** From the front axle to the start of the front wing, exactly 2 blocks.
 - **3.3.** From the end of the monocoque to the front wing, minimum 5 blocks (including wheelbase, excluding the front wing itself).
-- **3.4. Rear zone:** From the rear of the monocoque to the rear wing, minimum 1 block. *(pic 4)*
-- **3.5.** From the rear wing to the rear axle, minimum 1 block. *(pic 4)*
+- **3.4. Rear zone:** From the rear of the monocoque to the rear wing, minimum 1 block.
+- **3.5.** From the rear wing to the rear axle, minimum 1 block.
 - **3.6. Front wheel zone:** In the area 1 block forward and 1 block backward from the front axle, bodywork width must be exactly 1 block.
 
 ---
@@ -45,7 +45,7 @@
 - **5.2.** Wheels must rotate and steer freely without clipping through any blocks or textures of the car.
 - **5.3.** The car must not scrape against the track surface at speeds below 150 km/h in-game.
 - **5.4.** The car must be objectively safe. For example, it is objectively unsafe if the driver is positioned upside down.
-- **5.5.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape. *(pic 1, 2)*
+- **5.5.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape.
 
 ---
 
