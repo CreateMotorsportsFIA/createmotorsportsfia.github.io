@@ -23,11 +23,11 @@
 
 ## 3. Zoning
 
-- **3.1. Monocoque zone:** 3 x 1 x 1 blocks (Width x Length x Height).
-- **3.2. Front zone:** From the front axle to the start of the front wing, exactly 2 blocks.
+- **3.1. Monocoque zone:** 3 x 1 x 1 blocks (Width x Length x Height). *(see Figure 3)*
+- **3.2. Front zone:** From the front axle to the start of the front wing, exactly 2 blocks. *(see Figure 4)*
 - **3.3.** From the end of the monocoque to the front wing, minimum 5 blocks (including wheelbase, excluding the front wing itself).
-- **3.4. Rear zone:** From the rear of the monocoque to the rear wing, minimum 1 block.
-- **3.5.** From the rear wing to the rear axle, minimum 1 block.
+- **3.4. Rear zone:** From the rear of the monocoque to the rear wing, minimum 1 block. *(see Figure 4)*
+- **3.5.** From the rear wing to the rear axle, minimum 1 block. *(see Figure 4)*
 - **3.6. Front wheel zone:** In the area 1 block forward and 1 block backward from the front axle, bodywork width must be exactly 1 block.
 
 ---
@@ -45,7 +45,7 @@
 - **5.2.** Wheels must rotate and steer freely without clipping through any blocks or textures of the car.
 - **5.3.** The car must not scrape against the track surface at speeds below 150 km/h in-game.
 - **5.4.** The car must be objectively safe. For example, it is objectively unsafe if the driver is positioned upside down.
-- **5.5.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape.
+- **5.5.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape. *(see Figures 1 and 2)*
 
 ---
 
@@ -73,6 +73,24 @@
 - **Bodywork:** Anything outside of the Monocoque, excluding suspension and wheels.
 - **Active suspension (6.5):** Passive suspension is required.
 - **Scrape (5.3):** Any contact with the ground that is not made by the wheels counts.
+
+---
+
+## 9. Images
+
+**Figure 1 and 2: Workspace hitbox (5.5)**
+
+![Figure 1](pic1.png)
+
+![Figure 2](pic2.png)
+
+**Figure 3: Monocoque zone (3.1)**
+
+![Figure 3](pic3.png)
+
+**Figure 4: Front, rear and axle zones (3.2, 3.4, 3.5)**
+
+![Figure 4](pic4.png)
 
 ---
 
