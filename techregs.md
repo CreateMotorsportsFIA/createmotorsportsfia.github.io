@@ -1,6 +1,14 @@
 # Create MotorSports FIA: Technical Regulations
 
-**Set 1, Version 5**
+**Set 1, Version 7**
+
+---
+
+## Introduction
+
+These regulations exist to create equal conditions for all drivers, so that results depend on driving skill, preparation and teamwork rather than on who builds the most extreme car. They apply to everyone who wants to compete, and they are not designed to set records through the machine alone.
+
+The regulations are intended to exclude "jet aircraft", "monstrous aerodynamic stacks" and "cars with infinite grip". A car is not allowed to gain an advantage through thrust from non-standard sources, through aerodynamic loads beyond what the rules allow, or through grip that is not produced by the regulated tyres and the contact of the car with the track. Where a situation is not explicitly covered, the spirit of these regulations, equal conditions and a fair contest, takes precedence over the literal wording.
 
 ---
 
@@ -60,6 +68,7 @@
 - **6.4.** The car must be Rear Wheel Drive. Only the front wheels may steer, and only via the Steering system. Any other method of turning the car is prohibited.
 - **6.5.** Active suspension is completely forbidden.
 - **6.6.** Any part, mechanism or modification not provided by Create: Motorsport that alters the car's geometry (length, width, height, wheelbase, track) or aerodynamics, whether permanently or during operation, is prohibited. This includes, but is not limited to, pistons, telescopic or sliding parts, hydraulic or pneumatic actuators, and any components from other mods used for the same purpose. The DRS mode of Create: Motorsport "Down Flaps" is not covered by this prohibition (see 2.1).
+- **6.7.** Hidden blocks are prohibited. A hidden block is any block or component that affects the car's performance, geometry, aerodynamics, weight, or handling in any way, while being disguised as, or placed inside or behind, another object so that it is not visually identifiable as what it is. Compliance with this rule must be verifiable from photographs of the car. Any component whose function cannot be determined from photos taken from the outside, and whose effect cannot be explained by its visible form, is considered a violation until the team proves otherwise.
 
 ---
 
@@ -78,6 +87,7 @@
 - **Active suspension (6.5):** Passive suspension is required.
 - **Scrape (5.4):** Any contact with the ground that is not made by the wheels counts.
 - **Geometry and aerodynamics modification (2.5, 6.6):** Any change in the car's dimensions, wheelbase, track, ride height or aerodynamic profile that is achieved by moving, extending or retracting components, or by using parts outside Create: Motorsport, regardless of whether the change is active or passive. The DRS mode of Create: Motorsport "Down Flaps" is excluded from this definition.
+- **Hidden block (6.7):** A block or component whose function is disguised by its appearance or placement, so that it cannot be identified from photographs as the part it actually is.
 
 ---
 
