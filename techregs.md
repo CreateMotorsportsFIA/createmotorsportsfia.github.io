@@ -1,6 +1,6 @@
 # Create MotorSports FIA: Technical Regulations
 
-**Set 1, Version 2**
+**Set 1, Version 3**
 
 ---
 
@@ -8,7 +8,8 @@
 
 - **1.1. Length:** 10 to 12 blocks.
 - **1.2. Width:** Maximum 3.5 blocks (bodywork only, wheels excluded).
-- **1.3. Weight:** Minimum 36 kpg, maximum 72 kpg.
+- **1.3. Weight:** Minimum 36 kg, maximum 72 kg.
+- **1.4. Width tolerance:** Where a width deviation in the zones defined in Section 3 does not affect function and serves only the visual appearance, a tolerance of ±0.5 blocks is permitted relative to the values specified in this section.
 
 ---
 
@@ -42,10 +43,11 @@
 ## 5. Safety and Construction
 
 - **5.1. Cockpit protection:** The cockpit must be protected by non-transparent blocks on the sides and rear. The front may remain open.
-- **5.2.** Wheels must rotate and steer freely without clipping through any blocks or textures of the car.
-- **5.3.** The car must not scrape against the track surface at speeds below 150 km/h in-game.
-- **5.4.** The car must be objectively safe. For example, it is objectively unsafe if the driver is positioned upside down.
-- **5.5.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape. *(see Figures 1 and 2)*
+- **5.2. Wheel clipping:** A slight clipping of the wheel into the bodywork is permitted, up to 0.15–0.2 blocks of the wheel radius.
+- **5.3.** Wheels must rotate and steer freely without clipping through any blocks or textures of the car beyond the limit set in 5.2.
+- **5.4.** The car must not scrape against the track surface at speeds below 150 km/h in-game.
+- **5.5.** The car must be objectively safe. For example, it is objectively unsafe if the driver is positioned upside down.
+- **5.6.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape. *(see Figures 1 and 2)*
 
 ---
 
@@ -72,13 +74,13 @@
 - **Monocoque:** A 3 x 1 x 1 block cluster that includes blocks in this order: Steering Wheel → Seat (any seat from Create and/or Create: Interior) → Fuel tank of any kind.
 - **Bodywork:** Anything outside of the Monocoque, excluding suspension and wheels.
 - **Active suspension (6.5):** Passive suspension is required.
-- **Scrape (5.3):** Any contact with the ground that is not made by the wheels counts.
+- **Scrape (5.4):** Any contact with the ground that is not made by the wheels counts.
 
 ---
 
 ## 9. Images
 
-**Figure 1 and 2: Workspace hitbox (5.5)**
+**Figure 1 and 2: Workspace hitbox (5.6)**
 
 ![Figure 1](pic1.png)
 
