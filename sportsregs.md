@@ -1,97 +1,66 @@
-# Create MotorSports FIA: Technical Regulations
+# Create MotorSports FIA: General Sporting Regulations
 
 **Set 1, Version 1**
 
 ---
 
-## 1. Dimensions and Weight
+## 1. General
 
-- **1.1. Length:** 10 to 12 blocks.
-- **1.2. Width:** Maximum 3 blocks (bodywork only, wheels excluded).
-- **1.3. Weight:** Minimum 36 kpg, maximum 72 kpg.
-
----
-
-## 2. Aerodynamics
-
-- **2.1.** Only "Down Flaps" from Create: Motorsport are allowed at the rear.
-- **2.2.** A maximum of 4 aerodynamic elements, excluding "Down Flaps" from Create: Motorsport, are allowed.
-- **2.3.** No aerodynamic element may be placed higher than 2 blocks above ground clearance.
-- **2.4.** Aerodynamic elements from Create: Aeronautics are strictly limited to a maximum height of 1 block above ground clearance.
+- **1.1. Scope:** These rules apply to every session on the server: timed laps, free runs, and any other driving session.
+- **1.2. Authority:** The session host has the final say on all disputes during a session.
+- **1.3. Respect:** Insulting, threatening, or harassing other participants in chat, voice, or any other medium is not allowed and may lead to removal from the session.
 
 ---
 
-## 3. Zoning
+## 2. Driving Conduct
 
-- **3.1. Monocoque zone:** 3 x 1 x 1 blocks (Width x Length x Height). *(see Figure 3)*
-- **3.2. Front zone:** From the front axle to the start of the front wing, exactly 2 blocks. *(see Figure 4)*
-- **3.3.** From the end of the monocoque to the front wing, minimum 5 blocks (including wheelbase, excluding the front wing itself).
-- **3.4. Rear zone:** From the rear of the monocoque to the rear wing, minimum 1 block. *(see Figure 4)*
-- **3.5.** From the rear wing to the rear axle, minimum 1 block. *(see Figure 4)*
-- **3.6. Front wheel zone:** In the area 1 block forward and 1 block backward from the front axle, bodywork width must be exactly 1 block.
-
----
-
-## 4. Height and Visibility
-
-- **4.1. Overall height:** Maximum 2.5 blocks.
-- **4.2. Driver visibility:** Looking forward from the driver seat, no structure may exceed 1.25 blocks above ground clearance.
+- **2.1. Clean driving:** Drive so that you do not endanger other drivers. Do not deliberately collide with other cars.
+- **2.2. No blocking:** You may defend your position once, but you may not change direction repeatedly to block a car that is trying to pass.
+- **2.3. Corners:** The car that is ahead has the right to the racing line through a corner. The car behind must leave a safe gap.
+- **2.4. Ramming and pushing:** Pushing, nudging, or ramming other cars is not allowed.
+- **2.5. Flags:** Respond to flags immediately. Ignoring a flag is a violation.
 
 ---
 
-## 5. Safety and Construction
+## 3. Overtaking
 
-- **5.1. Cockpit protection:** The cockpit must be protected by non-transparent blocks on the sides and rear. The front may remain open.
-- **5.2.** Wheels must rotate and steer freely without clipping through any blocks or textures of the car.
-- **5.3.** The car must not scrape against the track surface at speeds below 150 km/h in-game.
-- **5.4.** The car must be objectively safe. For example, it is objectively unsafe if the driver is positioned upside down.
-- **5.5.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape. *(see Figures 1 and 2)*
-
----
-
-## 6. Powertrain and Movement
-
-- **6.1.** All acceleration and braking must come solely from the engine and wheels from Create: Motorsport.
-- **6.2.** Strictly prohibited: any propellers, jet burners, air-reactive engines, active stabilizers (gyroscopes), or any other external source of thrust or momentum (even if not actively used).
-- **6.3.** Exactly 4 wheels: 2 front (F1 Slick Front), 2 rear (F1 Slick Rear).
-- **6.4.** The car must be Rear Wheel Drive. Only the front wheels may steer, and only via the Steering system. Any other method of turning the car is prohibited.
-- **6.5.** Active suspension is completely forbidden.
+- **3.1. Legal pass:** A pass is legal when it is completed without contact and without leaving the track to gain a position.
+- **3.2. Side by side:** When two cars are side by side, the car on the inside has the right to the corner. The car on the outside must not push the inside car off the track.
+- **3.3. Attacking from behind:** A car behind may pass on any part of the track where it can do so safely.
+- **3.4. Leaving the track to pass:** Passing by going off the track, through the grass, gravel, or kerbs to gain a position is not allowed. The position must be given back.
+- **3.5. Overtaking in a corner:** Do not dive into a corner with no space. If the pass fails and causes contact, the driver who made the move is at fault.
+- **3.6. Lapping:** A faster car that laps a slower car must pass safely and should not hold the slower car up for longer than necessary.
 
 ---
 
-## 7. On-Track Behavior
+## 4. Track Limits
 
-- **7.1.** The car must remain stable on all 4 wheels at all times (excluding jumping over bumps or trampolines).
-- **7.2.** The car must consist strictly of one Sublevel.
-
----
-
-## 8. Terms and Definitions
-
-- **Ground clearance:** A reference plane: the lowest point of the bodywork, i.e. the lowest face of any block that is part of the bodywork.
-- **Monocoque:** A 3 x 1 x 1 block cluster that includes blocks in this order: Steering Wheel → Seat (any seat from Create and/or Create: Interior) → Fuel tank of any kind.
-- **Bodywork:** Anything outside of the Monocoque, excluding suspension and wheels.
-- **Active suspension (6.5):** Passive suspension is required.
-- **Scrape (5.3):** Any contact with the ground that is not made by the wheels counts.
+- **4.1. Definition:** The track is the paved surface inside the white lines or the boundary markers.
+- **4.2. Valid lap:** A lap is valid only if all four wheels stay inside the track limits when the car crosses the timing line.
+- **4.3. Warning:** The first violation in a session gives a warning.
+- **4.4. Repeated violations:** After the warning, each further violation deletes that lap's time.
+- **4.5. Gaining an advantage:** Leaving the track to gain time or position is a violation, even if it is only a small part of the lap.
 
 ---
 
-## 9. Images
+## 5. Penalties
 
-**Figure 1 and 2: Workspace hitbox (5.5)**
-
-![Figure 1](pic1.png)
-
-![Figure 2](pic2.png)
-
-**Figure 3: Monocoque zone (3.1)**
-
-![Figure 3](pic3.png)
-
-**Figure 4: Front, rear and axle zones (3.2, 3.4, 3.5)**
-
-![Figure 4](pic4.png)
+- **5.1. Warning:** Minor infractions may result in a warning.
+- **5.2. Lap time deletion:** Applies to track limit violations as set out in section 4.
+- **5.3. Removal:** Serious or repeated violations may remove the driver from the session.
+- **5.4. Appeals:** A penalty may be disputed with the session host within 24 hours.
 
 ---
 
-*by @ᴍᴀɴɪꜱᴋ and @notweb*
+## 6. Flags
+
+- **Green:** Track is clear.
+- **Yellow:** Danger ahead, no overtaking in that section.
+- **Red:** Session stopped. Return to the start area.
+- **Blue:** A faster car is behind you. Let it pass.
+- **Black:** Return to the start area immediately.
+- **Chequered:** The session has ended.
+
+---
+
+*by notweb*
