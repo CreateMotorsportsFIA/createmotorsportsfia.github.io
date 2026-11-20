@@ -1,24 +1,25 @@
 # Create MotorSports FIA: Technical Regulations
 
-**Set 1, Version 3**
+**Set 1, Version 5**
 
 ---
 
 ## 1. Dimensions and Weight
 
 - **1.1. Length:** 10 to 12 blocks.
-- **1.2. Width:** Maximum 3.5 blocks (bodywork only, wheels excluded).
+- **1.2. Width:** Maximum 3.5 blocks at all times and under all circumstances (bodywork only, wheels excluded). This limit is absolute and cannot be exceeded under any tolerance in this regulation.
 - **1.3. Weight:** Minimum 36 kg, maximum 72 kg.
-- **1.4. Width tolerance:** Where a width deviation in the zones defined in Section 3 does not affect function and serves only the visual appearance, a tolerance of ±0.5 blocks is permitted relative to the values specified in this section.
+- **1.4. Width tolerance in zones:** In the zones defined in Section 3, a width deviation of ±0.5 blocks is permitted only where the deviation is non-functional and serves purely visual purposes. This tolerance never allows the total width specified in 1.2 to be exceeded.
 
 ---
 
 ## 2. Aerodynamics
 
-- **2.1.** Only "Down Flaps" from Create: Motorsport are allowed at the rear.
+- **2.1.** Only "Down Flaps" from Create: Motorsport are allowed at the rear. Their DRS mode is permitted; it is an intended function of the part and is not a geometry or aerodynamics modification under 2.5 and 6.6.
 - **2.2.** A maximum of 4 aerodynamic elements, excluding "Down Flaps" from Create: Motorsport, are allowed.
 - **2.3.** No aerodynamic element may be placed higher than 2 blocks above ground clearance.
 - **2.4.** Aerodynamic elements from Create: Aeronautics are strictly limited to a maximum height of 1 block above ground clearance.
+- **2.5.** Any mechanism, device or modification that changes the car's length, width, height, wheelbase or aerodynamic profile during operation or while stationary is prohibited. This includes pistons, extensions, retractable parts and similar systems, except where the component is a part of Create: Motorsport as specified in this regulation, and except the DRS mode of "Down Flaps" described in 2.1.
 
 ---
 
@@ -58,6 +59,7 @@
 - **6.3.** Exactly 4 wheels: 2 front (F1 Slick Front), 2 rear (F1 Slick Rear).
 - **6.4.** The car must be Rear Wheel Drive. Only the front wheels may steer, and only via the Steering system. Any other method of turning the car is prohibited.
 - **6.5.** Active suspension is completely forbidden.
+- **6.6.** Any part, mechanism or modification not provided by Create: Motorsport that alters the car's geometry (length, width, height, wheelbase, track) or aerodynamics, whether permanently or during operation, is prohibited. This includes, but is not limited to, pistons, telescopic or sliding parts, hydraulic or pneumatic actuators, and any components from other mods used for the same purpose. The DRS mode of Create: Motorsport "Down Flaps" is not covered by this prohibition (see 2.1).
 
 ---
 
@@ -75,6 +77,7 @@
 - **Bodywork:** Anything outside of the Monocoque, excluding suspension and wheels.
 - **Active suspension (6.5):** Passive suspension is required.
 - **Scrape (5.4):** Any contact with the ground that is not made by the wheels counts.
+- **Geometry and aerodynamics modification (2.5, 6.6):** Any change in the car's dimensions, wheelbase, track, ride height or aerodynamic profile that is achieved by moving, extending or retracting components, or by using parts outside Create: Motorsport, regardless of whether the change is active or passive. The DRS mode of Create: Motorsport "Down Flaps" is excluded from this definition.
 
 ---
 
