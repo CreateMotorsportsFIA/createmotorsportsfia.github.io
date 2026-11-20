@@ -1,0 +1,79 @@
+# Create MotorSports FIA: Technical Regulations
+
+**Set 1, Version 1**
+
+---
+
+## 1. Dimensions and Weight
+
+- **1.1. Length:** 10 to 12 blocks.
+- **1.2. Width:** Maximum 3 blocks (bodywork only, wheels excluded).
+- **1.3. Weight:** Minimum 36 kpg, maximum 72 kpg.
+
+---
+
+## 2. Aerodynamics
+
+- **2.1.** Only "Down Flaps" from Create: Motorsport are allowed at the rear.
+- **2.2.** A maximum of 4 aerodynamic elements, excluding "Down Flaps" from Create: Motorsport, are allowed.
+- **2.3.** No aerodynamic element may be placed higher than 2 blocks above ground clearance.
+- **2.4.** Aerodynamic elements from Create: Aeronautics are strictly limited to a maximum height of 1 block above ground clearance.
+
+---
+
+## 3. Zoning
+
+- **3.1. Monocoque zone:** 3 x 1 x 1 blocks (Width x Length x Height). *(pic 3)*
+- **3.2. Front zone:** From the front axle to the start of the front wing, exactly 2 blocks. *(pic 4)*
+- **3.3.** From the end of the monocoque to the front wing, minimum 5 blocks (including wheelbase, excluding the front wing itself).
+- **3.4. Rear zone:** From the rear of the monocoque to the rear wing, minimum 1 block. *(pic 4)*
+- **3.5.** From the rear wing to the rear axle, minimum 1 block. *(pic 4)*
+- **3.6. Front wheel zone:** In the area 1 block forward and 1 block backward from the front axle, bodywork width must be exactly 1 block.
+
+---
+
+## 4. Height and Visibility
+
+- **4.1. Overall height:** Maximum 2.5 blocks.
+- **4.2. Driver visibility:** Looking forward from the driver seat, no structure may exceed 1.25 blocks above ground clearance.
+
+---
+
+## 5. Safety and Construction
+
+- **5.1. Cockpit protection:** The cockpit must be protected by non-transparent blocks on the sides and rear. The front may remain open.
+- **5.2.** Wheels must rotate and steer freely without clipping through any blocks or textures of the car.
+- **5.3.** The car must not scrape against the track surface at speeds below 150 km/h in-game.
+- **5.4.** The car must be objectively safe. For example, it is objectively unsafe if the driver is positioned upside down.
+- **5.5.** When using "Workspace" to model the car, the part must be covered by a copycat layer to have a hitbox, and its hitbox must be a good approximation of the QModelling shape. *(pic 1, 2)*
+
+---
+
+## 6. Powertrain and Movement
+
+- **6.1.** All acceleration and braking must come solely from the engine and wheels from Create: Motorsport.
+- **6.2.** Strictly prohibited: any propellers, jet burners, air-reactive engines, active stabilizers (gyroscopes), or any other external source of thrust or momentum (even if not actively used).
+- **6.3.** Exactly 4 wheels: 2 front (F1 Slick Front), 2 rear (F1 Slick Rear).
+- **6.4.** The car must be Rear Wheel Drive. Only the front wheels may steer, and only via the Steering system. Any other method of turning the car is prohibited.
+- **6.5.** Active suspension is completely forbidden.
+
+---
+
+## 7. On-Track Behavior
+
+- **7.1.** The car must remain stable on all 4 wheels at all times (excluding jumping over bumps or trampolines).
+- **7.2.** The car must consist strictly of one Sublevel.
+
+---
+
+## 8. Terms and Definitions
+
+- **Ground clearance:** A reference plane: the lowest point of the bodywork, i.e. the lowest face of any block that is part of the bodywork.
+- **Monocoque:** A 3 x 1 x 1 block cluster that includes blocks in this order: Steering Wheel → Seat (any seat from Create and/or Create: Interior) → Fuel tank of any kind.
+- **Bodywork:** Anything outside of the Monocoque, excluding suspension and wheels.
+- **Active suspension (6.5):** Passive suspension is required.
+- **Scrape (5.3):** Any contact with the ground that is not made by the wheels counts.
+
+---
+
+*by @ᴍᴀɴɪꜱᴋ and @notweb*
