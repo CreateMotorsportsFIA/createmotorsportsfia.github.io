@@ -1,13 +1,13 @@
 # Create MotorSports FIA: Technical Regulations
 
-**Set 1, Version 1**
+**Set 1, Version 2**
 
 ---
 
 ## 1. Dimensions and Weight
 
 - **1.1. Length:** 10 to 12 blocks.
-- **1.2. Width:** Maximum 3 blocks (bodywork only, wheels excluded).
+- **1.2. Width:** Maximum 3.5 blocks (bodywork only, wheels excluded).
 - **1.3. Weight:** Minimum 36 kpg, maximum 72 kpg.
 
 ---
